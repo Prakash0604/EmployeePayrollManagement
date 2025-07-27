@@ -69,8 +69,7 @@
                         <div class="contact-section">
                             <div class="contact-icon"><i class="fa fa-map-marker"></i></div>
                             <div class="contact-info">
-                                <p>4 Embankment Drive Road,Sector-10
-                                    Uttara, Dhaka 1230</p>
+                                <p> Kathmandu - Nepal</p>
                             </div>
                         </div>
                     </div>
@@ -78,8 +77,8 @@
                         <div class="contact-section">
                             <div class="contact-icon"><i class="fa fa-phone"></i></div>
                             <div class="contact-info">
-                                <p>+8801701476579
-                                    <br>+8801701476579
+                                <p>+980000000000
+                                    <br>+9823681753
                                 </p>
                             </div>
                         </div>
@@ -88,8 +87,8 @@
                         <div class="contact-section">
                             <div class="contact-icon  "><i class="fa fa-envelope"></i></div>
                             <div class="contact-info">
-                                <p>20103087@iubat.edu
-                                    <br>akikhs00@gmail.com
+                                <p>github.com/prakash0604
+                                    <br>jprakashchaudhary857@gmail.com
                                 </p>
                             </div>
                         </div>
@@ -111,13 +110,13 @@
                 <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
                     <div class="location-block">
                         <div class="location-content  ">
-                            <h3>HRHUB360, Dhaka</h3>
-                            <p>1230 Uttara, Dhaka, Bangladesh</p>
+                            <h3>Kathmandu, Nepal</h3>
+                            <p>Lalitpur-2 , Kupondole</p>
                             <ul>
                                 <li><span class="location-icon"><i
-                                            class="fa fa-phone"></i></span><span>+8801701476579</span></li>
+                                            class="fa fa-phone"></i></span><span>+9800000000</span></li>
                                 <li><span class="location-icon"><i
-                                            class="fa fa-envelope"></i></span><span>20103087@iubat.edu</span></li>
+                                            class="fa fa-envelope"></i></span><span>jprakashchaudhary857@gmail.com</span></li>
                             </ul>
                         </div>
                     </div>
@@ -125,13 +124,13 @@
                 <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
                     <div class="location-block">
                         <div class="location-content">
-                            <h3>HRHUB360, Sylhet</h3>
-                            <p>Srimangal,Moulvibazar District, Bangladesh</p>
+                            <h3>Kathmandu, Nepal</h3>
+                            <p>Lalitpur-2 , Nepal</p>
                             <ul>
                                 <li><span class="location-icon"><i
-                                            class="fa fa-phone"></i></span><span>+8801645476579</span></li>
+                                            class="fa fa-phone"></i></span><span>+9823681753</span></li>
                                 <li><span class="location-icon"><i
-                                            class="fa fa-envelope"></i></span><span>sylhet@gmail.com</span></li>
+                                            class="fa fa-envelope"></i></span><span>jprakashchaudhary857@gmail.com</span></li>
                             </ul>
                         </div>
                     </div>
@@ -139,13 +138,13 @@
                 <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
                     <div class="location-block">
                         <div class="location-content">
-                            <h3>HRHUB360, Chittagong</h3>
-                            <p>Pahartali, Chattogram Division, Bangladesh</p>
+                            <h3>Kathmandu, Nepal</h3>
+                            <p>Laltipur-2 Kathmandu</p>
                             <ul>
                                 <li><span class="location-icon"><i
-                                            class="fa fa-phone"></i></span><span>+8801445446529</span></li>
+                                            class="fa fa-phone"></i></span><span>+9823681753</span></li>
                                 <li><span class="location-icon"><i
-                                            class="fa fa-envelope"></i></span><span>pahartoli@gmail.com</span></li>
+                                            class="fa fa-envelope"></i></span><span>jprakashchaudhary857@mail.com</span></li>
                             </ul>
                         </div>
                     </div>

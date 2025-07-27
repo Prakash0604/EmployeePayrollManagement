@@ -19,8 +19,8 @@
                             <a href="#">
                                 <h3 class="custom-color fw-bold">Senior Front - End Engineer</h3>
                             </a>
-                            <p>HR HUB 360</p>
-                            <p><span class="job-location-icon"><i class="fa fa-map-marker"></i></span>Dhaka, Bangladesh
+                            <p>Employee Management System</p>
+                            <p><span class="job-location-icon"><i class="fa fa-map-marker"></i></span>Kathmandu, Nepal
                             </p>
                         </div>
                         <div class="job-post-meta">
@@ -38,9 +38,9 @@
                             <a href="#">
                                 <h3 class="custom-color fw-bold">Director of Software Engineering</h3>
                             </a>
-                            <p>HR HUB 360</p>
-                            <p><span class="job-location-icon"><i class="fa fa-map-marker"></i></span>Chattogram,
-                                Bangladesh</p>
+                            <p>Employee Management System</p>
+                            <p><span class="job-location-icon"><i class="fa fa-map-marker"></i></span>Kathmandu,
+                                Nepal</p>
                         </div>
                         <div class="job-post-meta">
                             <span class="bg-success text-white p-2">C++14</span>
@@ -59,8 +59,8 @@
                             <a href="#">
                                 <h3 class="custom-color fw-bold">Senior Java Developer</h3>
                             </a>
-                            <p>HR HUB 360</p>
-                            <p><span class="job-location-icon"><i class="fa fa-map-marker"></i></span>Sylhet, Bangladesh
+                            <p>Employee Management System</p>
+                            <p><span class="job-location-icon"><i class="fa fa-map-marker"></i></span>Kathmandu, Nepal
                             </p>
                         </div>
                         <div class="job-post-meta">
@@ -78,9 +78,9 @@
                             <a href="#">
                                 <h3 class="custom-color fw-bold">Lead Android Developer</h3>
                             </a>
-                            <p>HR HUB 360</p>
-                            <p><span class="job-location-icon"><i class="fa fa-map-marker"></i></span>Rajshahi,
-                                Bangladesh</p>
+                            <p>Employee Management System</p>
+                            <p><span class="job-location-icon"><i class="fa fa-map-marker"></i></span>Kathmandu,
+                                Nepal</p>
                         </div>
                         <div class="job-post-meta">
                             <span class="bg-success text-white p-2">C++14</span>
@@ -100,8 +100,8 @@
                                 <h3 class="custom-color fw-bold">Senior Front - End
                                     Engineer</h3>
                             </a>
-                            <p>HR HUB 360</p>
-                            <p><span class="job-location-icon"><i class="fa fa-map-marker"></i></span>Dhaka, Bangladesh
+                            <p>Employee Management System</p>
+                            <p><span class="job-location-icon"><i class="fa fa-map-marker"></i></span>Kathmandu, Nepal
                             </p>
                         </div>
                         <div class="job-post-meta">
@@ -119,9 +119,9 @@
                             <a href="#">
                                 <h3 class="custom-color fw-bold">Director of Software Engineering</h3>
                             </a>
-                            <p>HR HUB 360</p>
-                            <p><span class="job-location-icon"><i class="fa fa-map-marker"></i></span>Chattogram,
-                                Bangladesh
+                            <p>Employee Management System</p>
+                            <p><span class="job-location-icon"><i class="fa fa-map-marker"></i></span>Kathmandu,
+                                Nepal
                             </p>
                         </div>
                         <div class="job-post-meta">

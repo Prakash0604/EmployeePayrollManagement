@@ -7,15 +7,15 @@
                     <h3 class="footer-title">Contact Info </h3>
                     <div class="contact-info">
                         <span class="contact-icon"><i class="fa fa-map-marker"></i></span>
-                        <span class="contact-text">4 Embankment Drive Road,Sector-10 <br> Uttara, Dhaka 1230 </span>
+                        <span class="contact-text">Nepal <br> Kathmandu, -Lalitpur</span>
                     </div>
                     <div class="contact-info">
                         <span class="contact-icon"><i class="fa fa-phone"></i></span>
-                        <span class="contact-text">+8801701476579</span>
+                        <span class="contact-text">+9823681753</span>
                     </div>
                     <div class="contact-info">
                         <span class="contact-icon"><i class="fa fa-envelope"></i></span>
-                        <span class="contact-text">20103087@iubat.edu</span>
+                        <span class="contact-text">jprakashchaudhary857@gmail.com</span>
                     </div>
                     <div class="ft-social">
                         <ul>
@@ -68,7 +68,7 @@
             <div class="row">
                 <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                     <p>Copyright © All Rights Reserved 2024 Employee Management System by
-                        <a href="https://github.com/akikhossain" target="_blank" class="copyrightlink">Akik Hossain</a>
+                        <a href="https://github.com/prakash0604" target="_blank" class="copyrightlink">Jay Prakash Chaudhary</a>
                     </p>
                 </div>
             </div>
