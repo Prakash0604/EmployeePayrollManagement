@@ -67,8 +67,8 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                    <p>Copyright © All Rights Reserved 2024 Employee Management System by
-                        <a href="https://github.com/prakash0604" target="_blank" class="copyrightlink">Jay Prakash Chaudhary</a>
+                    <p>Copyright © All Rights Reserved {{ date('Y') }} Employee Management System by
+                        <a href="https://github.com/prakash0604" target="_blank" class="copyrightlink">{{ config('app.author_name') }}</a>
                     </p>
                 </div>
             </div>

@@ -64,7 +64,7 @@
                 </tbody>
             </table>
             <div class="card-footer p-2 mt-5 text-center rounded bg-dark-light">
-                <p class="mb-0">© 2024 Copyright: Employee Management System | Akik Hossain</p>
+                <p class="mb-0">© {{ date('Y') }} Copyright: Employee Management System | {{ config('app.author_name') }}</p>
             </div>
         </div>
     </div>

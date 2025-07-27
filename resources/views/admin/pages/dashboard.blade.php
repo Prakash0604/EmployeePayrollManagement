@@ -8,8 +8,7 @@
         <span class="fw-bold ">{{ auth()->user()->name }}</span>
         <span>Welcome</span>
         <span>to</span>
-        <span>HR</span>
-        <span>Platform👋</span>
+        <span>Employee Mangement System</span>
         <hr>
     </p>
 </div>

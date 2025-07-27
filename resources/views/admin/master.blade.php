@@ -189,7 +189,7 @@
         <!-- /.content-wrapper -->
         <footer class="main-footer">
 
-            <strong>Copyright &copy; {{ date('Y') }} All rights reserved By Prakash Chaudhary.
+            <strong>Copyright &copy; {{ date('Y') }} All rights reserved By {{ config('app.author_name') }}.
         </footer>
 
     </div>

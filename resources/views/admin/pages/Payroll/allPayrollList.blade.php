@@ -56,7 +56,7 @@
         </table>
         <div class="row mt-3">
             <div class="text-center mx-auto mt-3  bg-dark-light pt-1">
-                <p>© 2024 Copyright: Employee Management System | Akik Hossain</p>
+                <p>© {{ date('Y') }} Copyright: Employee Management System | {{ config('app.author_name') }}</p>
             </div>
         </div>
     </div>

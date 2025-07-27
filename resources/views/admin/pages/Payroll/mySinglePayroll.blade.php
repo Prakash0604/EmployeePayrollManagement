@@ -115,7 +115,7 @@
                     <hr>
                     <div class="row">
                         <div class="col-xl-10">
-                            <p>© 2024 Copyright: Employee Management System | Akik Hossain</p>
+                            <p>© {{ date('Y') }} Copyright: Employee Management System | {{ config('app.author_name') }}</p>
                         </div>
                     </div>
                 </div>
